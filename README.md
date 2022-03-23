@@ -14,5 +14,9 @@ Samarth Yadav - U01815170
 Harshal Patil - U01825722
 Kush Shah - U01788010
 
+![harshal](https://user-images.githubusercontent.com/100858148/159814763-277df92d-6a5f-4df6-a324-7baf6c98603a.jpeg)
+Team Member- Harshal
 
 
+![louis jepthe](https://user-images.githubusercontent.com/100858148/159814955-92fba67b-5210-4308-aa1b-5aa95adfc538.jpg)
+Team Leader Louis Jepthe
