@@ -7,16 +7,19 @@ Initially team members had different ideas to work on, after a weekly standup ca
 Once the SRI project was finalized by team, we identified highest priority items to work on and put measurable goals on those items so they can be completed on time and it was done using Jira.
 
 Project Credits 
-Jephthe Louis-Jacques - U00563103
-Naga Nimmakayala -U01823114
-Farhan Mohammed - U01819625
-Samarth Yadav - U01815170
-Harshal Patil - U01825722
-Kush Shah - U01788010
-
-![harshal](https://user-images.githubusercontent.com/100858148/159814763-277df92d-6a5f-4df6-a324-7baf6c98603a.jpeg)
-Team Member- Harshal
-
-
+Team Leader Jephthe Louis-Jacques - U00563103
 ![louis jepthe](https://user-images.githubusercontent.com/100858148/159814955-92fba67b-5210-4308-aa1b-5aa95adfc538.jpg)
-Team Leader Louis Jepthe
+
+Team Memeber Harshal Patil - U01825722
+![harshal updated](https://user-images.githubusercontent.com/100858148/159815442-0188c638-5a33-49e5-a7cb-ae8bc6be51bc.jpg)
+
+Team Member Naga Nimmakayala -U01823114
+![kiran picture](https://user-images.githubusercontent.com/100858148/159815612-8a99e176-2f4d-4084-8861-4353c0c58c3a.jpg)
+
+Team Member Farhan Pasha Mohammed-  U01819625
+![farhan picture](https://user-images.githubusercontent.com/100858148/159815915-865b5f0a-5aa5-411b-b2e8-01a38d813faf.jpg)
+
+Team Member Samarth Yadav - U01815170
+![samarth](https://user-images.githubusercontent.com/100858148/159816153-0a08fbd0-1f97-4789-80ed-c0a6b32ca8f7.jpg)
+
+Team Member Kush Shah - U01788010
