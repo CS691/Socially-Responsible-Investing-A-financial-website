@@ -1,4 +1,4 @@
-# SOCIALLY RESPONSIBLE INVESTING-SRI-website CS691 Pace university NYC
+# SOCIALLY RESPONSIBLE INVESTING-SRI-website CS691 Pace University NYC
 We are providing socially conscious millennial investors (SCI) a free tool to review current companies stock price in comparison to the respective company's overall 'Socially Responsible' ratings.  This free tool will provide the social responsibility rating of the company along with most recent available articles written about the company as part of diligence when researching.  The site will also partner with third third platforms to allow SCIs to create a account and beginning investing in the company of their choice. An investor site is supposed to provide the most accurate data about the company that an investor is looking forward to invest in, how well the company is doing in the current market is it making profit or is in loss.
 As we planned the project, realized managing micro-task is important and excel schedules were not good enough so we used JIRA.
 Working with JIRA made us realize there's a tight timeline to accomplish the project and every week is important. 
