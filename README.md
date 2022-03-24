@@ -1,4 +1,4 @@
-# SRI-website CS691 Pace university NYC
+# SOCIALLY RESPONSIBLE INVESTING-SRI-website CS691 Pace university NYC
 We are providing socially conscious millennial investors (SCI) a free tool to review current companies stock price in comparison to the respective company's overall 'Socially Responsible' ratings.  This free tool will provide the social responsibility rating of the company along with most recent available articles written about the company as part of diligence when researching.  The site will also partner with third third platforms to allow SCIs to create a account and beginning investing in the company of their choice. An investor site is supposed to provide the most accurate data about the company that an investor is looking forward to invest in, how well the company is doing in the current market is it making profit or is in loss.
 As we planned the project, realized managing micro-task is important and excel schedules were not good enough so we used JIRA.
 Working with JIRA made us realize there's a tight timeline to accomplish the project and every week is important. 
@@ -17,9 +17,14 @@ Team Member Naga Nimmakayala -U01823114
 ![kiran picture](https://user-images.githubusercontent.com/100858148/159815612-8a99e176-2f4d-4084-8861-4353c0c58c3a.jpg)
 
 Team Member Farhan Pasha Mohammed-  U01819625
+
+
 ![farhan picture](https://user-images.githubusercontent.com/100858148/159815915-865b5f0a-5aa5-411b-b2e8-01a38d813faf.jpg)
 
 Team Member Samarth Yadav - U01815170
+
+
 ![samarth](https://user-images.githubusercontent.com/100858148/159816153-0a08fbd0-1f97-4789-80ed-c0a6b32ca8f7.jpg)
+
 
 Team Member Kush Shah - U01788010
